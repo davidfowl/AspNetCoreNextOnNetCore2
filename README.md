@@ -5,7 +5,6 @@ See https://github.com/dotnet/corefx/blob/master/Documentation/project-docs/dogf
 You'll need to change:
 
 ```xml
-<NetCoreAppImplicitPackageVersion>2.0.0-beta-001607-00</NetCoreAppImplicitPackageVersion>
 <RuntimeFrameworkVersion>2.0.0-beta-001607-00</RuntimeFrameworkVersion>
 ```
 
